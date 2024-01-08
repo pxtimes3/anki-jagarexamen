@@ -2,7 +2,7 @@
 
 Följer upplägget i boken "Din väg till jägarexamen", med instuderingsfrågor baserade på texter ifrån boken. Även frågor skapade med ChatGPT-3 & 4 (via AnkiBrain). 
 
-Innehåller ca. 2400 frågor.
+Innehåller ca. 2400 frågor av varierande kvalitet.
 
 ### CAVEAT EMPTOR
 
